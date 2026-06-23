@@ -8,13 +8,19 @@ Learning platforms generate a constant stream of activity data — lessons compl
 
 This repository is part of the **Isomo Data Fellowship 2026** assessment. Isomo works with learners across Rwanda, running them through two learning platforms — Typing and Quill — and tracking their progress through three assessments: EFSet, DET, and Northstar. This project links those two worlds together. Starting from raw, disconnected files with no shared learner or school ID, this repository builds the identity system needed to connect platform activity to assessment results, cleans and loads nine source files into a queryable database, and uses SQL to answer one concrete question:
 
-> **Are the learners who engage the most on Typing and Quill the same learners who appear in EFSet, DET, and Northstar assessment records — or are there learners who are active but never assessed, and assessed learners who barely engage?**
+---
+> ###  Are the learners who engage the most on Typing and Quill the same learners who appear in EFSet, DET, and Northstar assessment records — or are there learners who are active but never assessed, and assessed learners who barely engage?
+---
 
 There is no answer key for this question. The value of this repository is not just the final numbers, but the documented trail of decisions — how learner identity was constructed, how ambiguous matches were handled, and how each cleaning choice was made — that makes those numbers trustworthy.
 
 ---
 
 ## Repository Structure
+
+```
+Isomo_assessement_Nusraty_Uwase/
+│
 ├── data/                        # Cleaned CSV files — one per source file
 ├── queries/                     # SQL query files — one per analytical question
 ├── analysis/                    # Scripts and final program-ready report
@@ -24,6 +30,11 @@ There is no answer key for this question. The value of this repository is not ju
 │   ├── cleaning_log.md          # Every cleaning decision across all nine files
 │   └── ai_log.md                # How AI was used, what it got wrong, what I corrected
 └── README.md                    # This file — start here
+```
+
+```
+
+```
 ---
 
 ## Data Sources
