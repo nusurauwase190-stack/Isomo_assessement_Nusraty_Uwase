@@ -1,0 +1,1003 @@
+learner_id,canonical_name,gender,combinations,is_admitted
+LRN00001,ABASHAKIMANA  SOLEIL,Female,MCB,True
+LRN00002,ABAYISENGA Divine,Female,PCB,True
+LRN00003,ABIKUNDA Elyse,Male,S2,True
+LRN00004,ADILI FREEMAN WISE David,Male,PCB,True
+LRN00005,AGATORE ANGE BETINA,Female,MCB,True
+LRN00006,AKWIRA Beni Bruce,Male,PCB,True
+LRN00007,ASHIMWE AINE,Male,MPG,True
+LRN00008,ASHIMWE Ange Priscilla,Female,PCB,True
+LRN00009,Abatesi Hope,Male,HLP,True
+LRN00010,Abayisenga Hervine,Female,PCB,True
+LRN00011,Abera Laura Alleluia,Female,PCB,True
+LRN00012,Abikunda Michel,Male,L3 Building Construction,False
+LRN00013,Abizera Emerance,Female,LFK,True
+LRN00014,Agasaro Abigail,Female,MPC,True
+LRN00015,Agasaro Mugabo Divine,Female,MPC,False
+LRN00016,Agasaro Peace Mary Hakizimana,Female,PCB,True
+LRN00017,Agatesi Sandra,Female,MEG,True
+LRN00018,Ahishakiye Anitha,Female,L3 Food Processing,True
+LRN00019,Ahishakiye Claude,Male,L3 Building Construction,True
+LRN00020,Aimee Izerwa,Male,LFK,True
+LRN00021,Aimee Murengezi,Male,HGL,True
+LRN00022,Ajeneza Latonia Davilla,Female,MPC,True
+LRN00023,Akaliza Giyana,Female,HGL,True
+LRN00024,Akarabo Elvire Magnificat,Female,PCB,True
+LRN00025,Akariza Queen,Female,LFK,True
+LRN00026,Akeza Lilian,Female,MCE,True
+LRN00027,Akimana Sylvie,Female,S2,True
+LRN00028,Akimanizanye Esther,Female,MCE,True
+LRN00029,Akimfura Ange Olivia,Female,S2,True
+LRN00030,Akunda Sarah Clouder,Female,HGL,True
+LRN00031,Allen Batamuliza,Female,HGL,True
+LRN00032,Allen Kayesu,Female,HGL,True
+LRN00033,Amani Aime Fabrice,Male,PCB,True
+LRN00034,Amizero Annie Kevine,Female,PCB,True
+LRN00035,Amos Niyigena,Male,PCB,True
+LRN00036,Anitha Irakoze,Female,MCB,True
+LRN00037,Arstide Umuhire,Male,MCB,True
+LRN00038,Asante Albertine,Female,,True
+LRN00039,Asifiwe Remy,Male,MCE,True
+LRN00040,Asingizwe Theogene,Male,,True
+LRN00041,Aurore Kamoso,Female,MCE,True
+LRN00042,BAKUNDUFITE SAIDI,Male,HGL,True
+LRN00043,BAZAMUKE PAMELLA,Female,MCB,True
+LRN00044,BAZUBAGIRA TETA Claudette,Female,HGL,True
+LRN00045,BEZA BELEN DHORIANE,Male,MPG,True
+LRN00046,BIMENYIMANA David,Male,PCB,True
+LRN00047,BIZIMANA Aimé Pacifique,Male,PCM,True
+LRN00048,BIZIMANA Joseph,Male,PCB,True
+LRN00049,BIZIMANA Samuel,Male,MCB,True
+LRN00050,BONHEUR ALIVE VALENTIN,Male,PCB,True
+LRN00051,BUGINGO Kenny,Male,MCE,True
+LRN00052,BUGINGO SHEMA Ryan Prince,Male,MCB,True
+LRN00053,BUGINGO UWINEZA Sosthene,Male,S2,True
+LRN00054,BYIRINGIRO ALLOYS,Male,MCB,True
+LRN00055,BYIRINGIRO Charles ELYSE,Male,HGL,True
+LRN00056,BYIRINGIRO Evra,Male,MCE,True
+LRN00057,BYIRINGIRO Jean Claude,Male,MCB,True
+LRN00058,BYIRINGIRO Josue,Male,MCB,True
+LRN00059,BYIRINGIRO Olivier,Male,S2,True
+LRN00060,BYUKUSENGE Niyogisubizo Alice,Female,PCB,True
+LRN00061,BYUSA KABAGEMA Credo Armand,Male,PCB,True
+LRN00062,Bahati Dorcas,Female,PCB,True
+LRN00063,Bahera Irinda Fidella,Female,MCE,True
+LRN00064,Bahige Barack Chris,Male,MCE,True
+LRN00065,Barasenga Placide,Male,S2,True
+LRN00066,Basangira Mathis Gabriel,Male,PCB,False
+LRN00067,Bavumiragira Bernard,Male,MCB,True
+LRN00068,Bayisingize Patience,Female,LFK,True
+LRN00069,Bazitegekiki Belyse,Female,PCB,True
+LRN00070,Benegusenga Ange Fabiola,Female,L4BDC,True
+LRN00071,Benihirwe Gift,Female,PCB,True
+LRN00072,Beza Teta Ashah,Female,MCE,True
+LRN00073,Bihoyiki Jean De Dieu,Male,L4BDC,True
+LRN00074,Bikorimana Theofile,Male,S2,True
+LRN00075,Birujujwe Elie,Male,MPG,True
+LRN00076,Burasa Perle,Female,S2,True
+LRN00077,Butobwintobo Nziza Rene,Male,MPG,True
+LRN00078,Byiringiro Arsene,Male,PCB,True
+LRN00079,Byiringiro Claudette,Female,L4AGR,True
+LRN00080,Byiringiro Emmanuel,Male,PCB,True
+LRN00081,Byiringiro Fulgence,Male,MCE,True
+LRN00082,Byiringiro Heritier,Male,MCE,True
+LRN00083,Byiringiro Innocent,Male,L3 Food Processing,True
+LRN00084,Byiringiro Irene,Male,MEG,True
+LRN00085,Byiringiro Jacques,Male,MCE,False
+LRN00086,Byiringiro Justin,Male,PCB,True
+LRN00087,Byiringiro Kevin,Male,MEG,True
+LRN00088,Byishimo Placide,Male,MCB,True
+LRN00089,Byusa Alex,Male,PCB,True
+LRN00090,CHANCE Colnel,Male,PCB,True
+LRN00091,CYIZA Aimé-Patrick,Male,MCB,True
+LRN00092,CYOMUHENDO MOUBARAK,Male,MCB,True
+LRN00093,CYUSA NEZERWA Evelyne,Female,PCB,True
+LRN00094,CYUZUZO  Kevin,Male,MCB,True
+LRN00095,CYUZUZO Amelia,Female,Accounting,True
+LRN00096,CYUZUZO RUGWIRO Christian,Male,MCB,True
+LRN00097,Carine Mutanganda,Female,HGL,True
+LRN00098,Carine Uwacu,Female,HGL,True
+LRN00099,Chania Ikirezi Mutabaruka,Female,MCE,True
+LRN00100,Claude Irabizi,Male,LFKK,True
+LRN00101,Claudine Ishime,Female,PCB,True
+LRN00102,Cyiza Cedrick,Male,MCB,True
+LRN00103,Cyizere Aphrodis,Male,HGL,True
+LRN00104,Cyizere Ntwali Parfait,Male,PCB,True
+LRN00105,Cyusa Belyse Prudencienne,Female,L3,True
+LRN00106,Cyuzuzo Anitha,Female,PCB,False
+LRN00107,Cyuzuzo Ashimwe Nikita,Female,PCB,True
+LRN00108,Cyuzuzo Hope,Female,PCB,True
+LRN00109,Cyuzuzo Nelson,Male,MCB,True
+LRN00110,Cyuzuzo Nzayisenga Gyslaine,Female,PCB,True
+LRN00111,DUFITUMUKIZA Jean Claude,Male,S2,True
+LRN00112,DUKUNDIMANA SIMEON,Male,S2,True
+LRN00113,DUSENGIMANA FELECIEN,Male,PCB,True
+LRN00114,DUSENGIMANA Ferdinand,Male,S2,True
+LRN00115,DUSHIME JOSUE,Male,PCB,True
+LRN00116,DUSHIMEYESU Léandre,Male,PCM,True
+LRN00117,DUSHIMUMUKIZA Alde Confiance,Male,MCB,True
+LRN00118,Daniel Hirwa,Male,MCB,True
+LRN00119,David Kagame,Male,HGL,True
+LRN00120,David Ngoga,Male,MCB,True
+LRN00121,Deborah Iranejeje,Female,MCB,True
+LRN00122,Diane Mukundwa,Female,MPC,True
+LRN00123,Dieudonne Ndahimana,Male,MEG,True
+LRN00124,Divine Iragena,Female,MEG,True
+LRN00125,Divine Irasubiza,Female,MEG,True
+LRN00126,Divine Uwineza,Female,MCB,True
+LRN00127,Dufitimana Caleb,Male,HGL,True
+LRN00128,Dukuzimana Valentin,Male,S2,True
+LRN00129,Dukuzumuremyi Evodie,Female,L3 Food Processing,True
+LRN00130,Dukuzuwera Caline,Female,MCE,True
+LRN00131,Dusabemariya Constantine,Female,LFK,True
+LRN00132,Dusabeyezu Huguette Parfaite,Female,MCE,True
+LRN00133,Dusabima Henritte,Female,MCB,True
+LRN00134,Dusabimana Olivier,Male,L3 Building Construction,True
+LRN00135,Dusenayo Phedine,Female,PCB,True
+LRN00136,Dusengimana Djafar,Male,S2,True
+LRN00137,Dusengimana Ramille,Female,MCB,True
+LRN00138,Dushime Peace Gloria,Female,MCB,True
+LRN00139,Dushime Teta Annaelle,Female,MPC,True
+LRN00140,Dushimimana Arsene,Male,PCB,True
+LRN00141,Dushimimana Olivier,Male,MCB,True
+LRN00142,Dusingizimana Aimer La Vie,Female,S2,True
+LRN00143,Dusingizimana Ernest,Male,HGL,True
+LRN00144,Dylan Ndoba,Male,MPC,True
+LRN00145,Egide Ndikubwayo,Male,L3 Building Construction,True
+LRN00146,Eliakim Niyukuri,Male,MCB,True
+LRN00147,Elie Nzabandora,Male,S2,True
+LRN00148,Eline Uwiduhaye,Female,MCB,True
+LRN00149,Elisa Bizimana,Male,LFK,True
+LRN00150,Elisa Kwizera,Male,MCB,True
+LRN00151,Elvis Igiraneza,Male,S2,True
+LRN00152,Elvis Rubayiza,Male,MPC,True
+LRN00153,Eric Mugisha,Male,MEG,True
+LRN00154,Eric Tuyishimire,Male,MCB,True
+LRN00155,Esther Igihozo,Female,MEG,True
+LRN00156,Esther Shimwandawe,Female,MPC,True
+LRN00157,Esther Uzayikorera,Female,MCB,True
+LRN00158,Ezra Dushime,Male,S2,True
+LRN00159,Fabrice Ibyimanikora,Male,PCB,True
+LRN00160,Fabrice Manzi,Male,LFK,True
+LRN00161,GANZA Nesta,Male,MCE,True
+LRN00162,GIHOZO Pacifique,Male,PCB,True
+LRN00163,GIRAMATA Benitha,Female,LFK,True
+LRN00164,GIRANEZA Bella Promesse,Female,MCB,True
+LRN00165,GIRANEZA Celia Pamella,Female,PCB,True
+LRN00166,GISUBIZO Aime Blandine,Female,MCE,True
+LRN00167,GISUBIZO Jean Pierre,Male,MCB,True
+LRN00168,GISUBIZO SYLVINE,Female,MCB,True
+LRN00169,GWIZA Ratwa Cezalie,Female,MPG,True
+LRN00170,Gael Ganza,Male,MCE,True
+LRN00171,Ganza Sankala,Male,MCE,True
+LRN00172,Gasana Ineza Shukuru Gabriel,Male,MCE,True
+LRN00173,Gasaro Isimbi Melissa,Female,MPC,True
+LRN00174,Gasaro Louna Megane,Female,MPC,True
+LRN00175,Gasaro Pearl,Female,MEG,True
+LRN00176,Gatesi Aurore,Female,MCE,True
+LRN00177,Gatesi Kagaba Lauria Megane,Female,MEG,True
+LRN00178,Gatesi Vanessa,Female,MCE,False
+LRN00179,Gatoya Salomon,Male,S2,True
+LRN00180,Gatsigazi Alex,Male,PCB,True
+LRN00181,Gift Akamanzi,Female,MCE,True
+LRN00182,Gihozo Abdullah,Male,HGL,True
+LRN00183,Gihozo Innocent,Female,L3 Food Processing,True
+LRN00184,Gihozo Kevine,Female,MCB,True
+LRN00185,Gihozo Rosine,Female,MCB,True
+LRN00186,Gihozo Sandrine,Female,MCB,True
+LRN00187,Gihozo Yvette Gloria,Female,PCB,False
+LRN00188,Giramata Neema odile,Female,MCE,True
+LRN00189,Gisigo Teta Keicy,Female,PCB,True
+LRN00190,Gisingizo Lucky Parfait,Male,PCB,True
+LRN00191,Gisubizo Murere Sammy,Male,MCE,True
+LRN00192,HABIMANA Rugira Fabrice,Male,PCB,True
+LRN00193,HABINEZA KARENZI Alexis,Male,PCB,True
+LRN00194,HABIYAREMYE Elyse,Male,MCE,True
+LRN00195,HABIYAVUZE Christian,Male,PCM,True
+LRN00196,HAFASHIMANA Theophile,Male,PCM,True
+LRN00197,HAKIZAYEZU JEAN BAPTISTE,Male,MCB,True
+LRN00198,HAKIZIMANA Vincent,Male,HLP,True
+LRN00199,HAKORIMANA INNOCENT,Male,PCB,True
+LRN00200,HARINDINTWARI Phocas,Male,PCB,True
+LRN00201,HATANGIMANA Valentin,Male,PCB,True
+LRN00202,HATEGEKIMANA Hilbert,Male,PCB,True
+LRN00203,HIRWA Danny,Male,MCB,True
+LRN00204,HIRWA Hussein,Male,PCB,False
+LRN00205,HIRWA MUNYANEZA Fabrice,Male,MCB,True
+LRN00206,HUNDIWIMPUNDU Aleluia,Female,Accounting,True
+LRN00207,Habamugisha David,Male,MCB,True
+LRN00208,Habineza Juru Rita Charisma,Female,MPC,True
+LRN00209,Habiyakare Erneste,Male,MEG,True
+LRN00210,Habiyaremye Pierre Celestin,Male,PCB,True
+LRN00211,Habumugisha Fred,Male,PCB,True
+LRN00212,Habumugisha Jean D'Amour,Male,L3 Building Construction,True
+LRN00213,Habumugisha Jean Pierre,Male,MCE,True
+LRN00214,Habumugisha Philemon,Male,L3 Food Processing,True
+LRN00215,Habumugisha Theoneste,Male,MCB,True
+LRN00216,Hagumimana Theogene,Male,L3 Food Processing,True
+LRN00217,Hakizimana Ishimwe Arthur,Male,PCM,True
+LRN00218,Hategekimana Ineza Elisa,Female,MEG,True
+LRN00219,Havugimana Aimable,Male,S2,True
+LRN00220,Hirwa Aliane,Female,PCB,True
+LRN00221,Hirwa Blessing Shalom,Male,S2,True
+LRN00222,Hirwa Itetero Naida,Female,MEG,True
+LRN00223,Hirwa Pio,Male,MCB,True
+LRN00224,Hirwa Sehigi Marcel,Male,MCB,True
+LRN00225,Honorine Irasubiza,Female,MEG,True
+LRN00226,IGABE GRADE,Female,MCB,True
+LRN00227,IGIHOZO Ariel,Male,MCB,True
+LRN00228,IGIHOZO PATRICK AIME,Male,HGL,False
+LRN00229,IGIHOZO Paula Laurette,Female,MPG,True
+LRN00230,IGIHOZO UWASE Clarisse,Female,PCB,True
+LRN00231,IGIRANEZA Jean Baptiste,Male,MCE,True
+LRN00232,IGIRANEZA Laurita Iriza,Female,MPC,True
+LRN00233,IGIRIMBABAZI CYNTHIA,Female,MCB,True
+LRN00234,IGISUBIZO BELYSE,Female,MCB,False
+LRN00235,IHIMBAZWE MOISE,Male,PCB,True
+LRN00236,IHIRWE HUBERT GASTON,Male,MCB,True
+LRN00237,IKUZO Alliance,Unknown,PCM,True
+LRN00238,IKUZORYAYEZU JEAN BAPTISTE,Male,MCB,True
+LRN00239,IKUZWE Marie Grace,Female,MCB,True
+LRN00240,IMANANIYO USHINDI,Female,PCB,True
+LRN00241,IMPUNDU Sonia Consolatrice,Female,PCB,True
+LRN00242,INEMA Honest,Female,PCB,True
+LRN00243,INEZA Albine,Female,MCB,True
+LRN00244,INEZA Fratelne Calvin,Male,PCM,True
+LRN00245,INEZA Peace,Female,MCB,True
+LRN00246,INGABIRE AKARABO CLEMENCE,Female,PCB,True
+LRN00247,INGABIRE Aline,Female,MCB,True
+LRN00248,INGABIRE Angelique,Female,PCB,True
+LRN00249,INGABIRE Bora Cynthia,Female,MCE,True
+LRN00250,INGABIRE Hycentha,Female,MEG,True
+LRN00251,INGABIRE KURAMA ORNELLA,Female,MCB,True
+LRN00252,INGABIRE Noella,Female,MCE,True
+LRN00253,INGABIYENEZA MAHORO  ASSIA,Female,MCB,True
+LRN00254,IRABARUTA Honore,Male,MCB,True
+LRN00255,IRADUKUNDA JMV,Male,MCB,True
+LRN00256,IRADUKUNDA Rene,Male,MCE,True
+LRN00257,IRAGENA HONORINE,Female,MCB,True
+LRN00258,IRAKOZE  Pacifique,Male,PCB,True
+LRN00259,IRAKOZE BUMWE Eloi,Male,PCB,True
+LRN00260,IRAKOZE Igue,Male,HLP,True
+LRN00261,IRAKOZE JOYEUSE MILINTHIA,Female,HLP,True
+LRN00262,IRAKOZE MUTONI Teckla,Female,S2,True
+LRN00263,IRAKOZE NDAHEMUKA Anicet,Male,PCB,True
+LRN00264,IRAKOZE Rosine,Female,PCM,True
+LRN00265,IRAMBONA Emmile,Male,MCB,True
+LRN00266,IRANEZEZA  YANNICK,Female,MCB,True
+LRN00267,IRANKUNDA ARSTIDE,Male,MPG,True
+LRN00268,IRANKUNDA Fiacre,Male,PCB,True
+LRN00269,IRANKUNDA NTWARI Aime Alain,Male,PCB,True
+LRN00270,IRANKUNDA Patience,Male,MCB,True
+LRN00271,IRANZI Christa Jessica,Female,MPG,True
+LRN00272,IRANZI Yana Believe,Female,MCB,True
+LRN00273,IRASHOBOYE Ladouce Parfaite,Female,LFKK,False
+LRN00274,IRASOHOZA ROSTANGE PROMESSE,Male,PCB,True
+LRN00275,IRASUBIZA Emmanuel,Male,MCB,True
+LRN00276,IRASUBIZA FIDELE,Male,MCB,True
+LRN00277,IRASUBIZA NIYOMUGENGA SALVIE,Male,MPG,True
+LRN00278,IRATUZI Blessing,Male,PCB,True
+LRN00279,IRIHO Elyse,Female,PCB,True
+LRN00280,IRISHURA JOEL,Male,MCB,True
+LRN00281,IRUMVA Micheline,Female,MPC,True
+LRN00282,ISEZERANO KIZITO,Male,MCB,True
+LRN00283,ISHIMWE ABDOUL RAZAK,Male,PCB,True
+LRN00284,ISHIMWE CHRISTA ALBINE,Female,PCB,True
+LRN00285,ISHIMWE Christian,Male,MCE,True
+LRN00286,ISHIMWE DEBORAH,Female,MCB,True
+LRN00287,ISHIMWE EGIDE,Male,MEG,False
+LRN00288,ISHIMWE Eliane,Female,MCE,True
+LRN00289,ISHIMWE Elisa,Male,PCB,True
+LRN00290,ISHIMWE Elise,Female,LFK,True
+LRN00291,ISHIMWE FULGENCE,Male,MCB,True
+LRN00292,ISHIMWE Forever,Female,S2,True
+LRN00293,ISHIMWE J.Celse,Male,PCB,True
+LRN00294,ISHIMWE JACK,Male,PCB,True
+LRN00295,ISHIMWE Jonathan,Male,PCB,True
+LRN00296,ISHIMWE KAMANZI FAVOUR,Male,MCB,True
+LRN00297,ISHIMWE Latifa,Female,MCB,True
+LRN00298,ISHIMWE MUHIRE RICHARD,Male,PCB,True
+LRN00299,ISHIMWE NDAMUTSA Wivine,Female,MCE,True
+LRN00300,ISHIMWE Nicole,Female,PCB,True
+LRN00301,ISHIMWE PLAISIR PARFAIT,Male,PCB,True
+LRN00302,ISHIMWE Thierry,Male,PCM,True
+LRN00303,ISHIMWE YVAN,Male,MCB,True
+LRN00304,ISHOBORABYOSE Daniel,Male,HGL,True
+LRN00305,ISIMBI Carine,Female,MCB,True
+LRN00306,ISINGIZWE Clementine,Female,HGL,True
+LRN00307,ISINGIZWE Second Fiacre,Male,MCB,True
+LRN00308,ITANGIMBABAZI Lines,Female,MCE,True
+LRN00309,IZAHORANANATWE  ENOCK,Male,MPC,True
+LRN00310,IZATURINDA JEAN CHANCE,Male,MCB,True
+LRN00311,IZERE Bertin,Male,PCM,True
+LRN00312,IZIBYOSE Olivier,Male,MCE,True
+LRN00313,Ibyikora Donath,Male,MCE,True
+LRN00314,Ibyikora Sifa,Female,MCE,False
+LRN00315,Icyaza Inyange,Female,PCM,True
+LRN00316,Igena Emily Joyeuse,Female,PCM,True
+LRN00317,Igena Raina Claudia,Female,PCM,True
+LRN00318,Igihozo Fabiola,Female,LFK,True
+LRN00319,Igikundiro Ange Claudia,Female,MPC,True
+LRN00320,Igiraneza Ange Kellia,Female,MPC,True
+LRN00321,Igiraneza Vincent de Paul,Male,PCM,True
+LRN00322,Igiraneza Viva Yannick,Male,MCB,True
+LRN00323,Ihimbazwe Hyancitha,Female,MCE,True
+LRN00324,Ihimbazwe Irakoze Merveille,Female,PCB,True
+LRN00325,Ihirwe Kirezi Beline,Female,MPG,True
+LRN00326,Ihirwe Shekinah,Female,MPC,True
+LRN00327,Ihumure Sabrine,Female,MPC,True
+LRN00328,Ikimipaye Yvonne,Female,MEG,True
+LRN00329,Ikimpaye Sandrine,Female,HGL,True
+LRN00330,Ikirezi Cynthia Martino,Female,MCB,True
+LRN00331,Ikirezi Kenia,Female,S2,True
+LRN00332,Ikuzwe Samuel,Male,PCB,True
+LRN00333,Ikuzwe Teta Ella,Female,MPC,True
+LRN00334,Iliza Singizwa Lelia,Female,PCB,True
+LRN00335,Imanishimwe Joselyne,Female,S2,True
+LRN00336,Imanishimwe Sifa,Female,S2,True
+LRN00337,Imanishimwe Thierry,Male,MCB,True
+LRN00338,Imfurakazi Mami,Female,S2,True
+LRN00339,Impano Ndayishimiye Roger,Male,S2,True
+LRN00340,Inema Mugisha Aldo,Male,PCB,True
+LRN00341,Ineza  HOPE,Female,HLP,True
+LRN00342,Ineza Angelo Samuel,Male,MCE,True
+LRN00343,Ineza Biseruka Bryan,Male,PCB,True
+LRN00344,Ineza Bugingo Daniella,Female,MCE,True
+LRN00345,Ineza Cedrine Blessing,Female,PCB,True
+LRN00346,Ineza Ganza Alice Wyila,Female,PCB,True
+LRN00347,Ineza Hirwa Délice,Female,MPC,True
+LRN00348,Ineza Iradukunda Kevine,Female,MPC,True
+LRN00349,Ineza Irene,Female,PCB,True
+LRN00350,Ineza Jenny,Female,PCB,True
+LRN00351,Ineza Karangwa Audrey,Female,MPG,True
+LRN00352,Ineza Nisegusa Sierra,Female,MCB,True
+LRN00353,Ineza Rugira Rita,Female,MPC,True
+LRN00354,Ineza Simbi Paola,Female,MCE,True
+LRN00355,Ingabire Ange Kevine,Female,PCB,True
+LRN00356,Ingabire Asifiwe,Female,MCB,True
+LRN00357,Ingabire Happiness,Female,MCB,True
+LRN00358,Ingabire Marie Scovia,Female,MCB,True
+LRN00359,Ingabire Solaya,Female,PCB,True
+LRN00360,Inganji Mucyo Thierry Nillan,Male,S2,True
+LRN00361,Inono Aicy Tekla,Female,PCM,True
+LRN00362,Irabizi Cedric,Male,PCM,True
+LRN00363,Iradukunda Aimee Joyeuse,Female,MEG,True
+LRN00364,Iradukunda Betty,Female,S2,True
+LRN00365,Iradukunda Chantal,Female,S2,True
+LRN00366,Iradukunda Chartine,Female,MPC,True
+LRN00367,Iradukunda Emmerance,Female,S2,True
+LRN00368,Iradukunda Fabrice,Male,S2,True
+LRN00369,Iradukunda Liliane,Female,PCB,True
+LRN00370,Iradukunda Mahoro Sandra,Female,MCE,True
+LRN00371,Iradukunda Truth Maker Denyse,Female,MEG,True
+LRN00372,Iragena Benitha,Female,LFK,True
+LRN00373,Iragena Peruth,Female,MCB,True
+LRN00374,Iragena Yvette,Female,MCB,True
+LRN00375,Irahagije Dieu Merci,Male,MCB,True
+LRN00376,Irakiza Patrick,Male,MCB,True
+LRN00377,Irakoze Agasaro Helvine,Female,MEG,True
+LRN00378,Irakoze Benitha,Female,S2,True
+LRN00379,Irakoze Chance Emeline,Female,MCB,True
+LRN00380,Irakoze Diane,Female,S2,True
+LRN00381,Irakoze Diane,Female,HGL,False
+LRN00382,Irakoze Diogene,Male,MCB,True
+LRN00383,Irakoze Joseph,Male,PCB,True
+LRN00384,Irakoze Kenny,Male,S2,True
+LRN00385,Irakoze Marie Grace,Female,MPC,True
+LRN00386,Irakoze Marie Joselyne,Female,MCE,True
+LRN00387,Irakoze Neema,Female,PCB,True
+LRN00388,Irakoze Rene Joy,Male,MCB,True
+LRN00389,Irakoze Sangwa Alain Parfait,Male,PCB,True
+LRN00390,Irankunda Jean Claude,Male,S2,True
+LRN00391,Iransubije Jacqueline,Female,L3 Food Processing,True
+LRN00392,Irasubiza Ainee Ange Vivine,Female,PCB,True
+LRN00393,Irasubiza Eric,Male,MEG,True
+LRN00394,Irasubiza Fazir,Male,S2,True
+LRN00395,Irasubiza Hycentha,Female,HGL,True
+LRN00396,Irasubiza Natacha,Female,MCB,True
+LRN00397,Irasubiza Pacifique,Male,MCE,True
+LRN00398,Iratuzi Evode,Male,MCB,True
+LRN00399,Iribagiza Kevine,Female,MCE,True
+LRN00400,Irumva Anne,Female,PCB,True
+LRN00401,Irumva Enock,Male,PCB,True
+LRN00402,Irumva Teta Kevin,Male,MCE,True
+LRN00403,Isangenkundi Clemence,Female,LFK,True
+LRN00404,Isano Gerardine,Female,MPC,True
+LRN00405,Isano Jovine,Female,PCB,True
+LRN00406,Isaro Melissa,Female,MCE,True
+LRN00407,Isheja Mutangana Laika,Female,MPC,True
+LRN00408,Ishimwe Ange Certainess,Female,MCB,True
+LRN00409,Ishimwe Ange Ladouce,Female,PCB,True
+LRN00410,Ishimwe Angela Schilo,Female,MPC,True
+LRN00411,Ishimwe Armand,Male,LFK,True
+LRN00412,Ishimwe Baraka Jehovanisi,Female,MCB,True
+LRN00413,Ishimwe Chanceline,Female,S2,True
+LRN00414,Ishimwe Clement,Male,LFK,True
+LRN00415,Ishimwe Devothe,Female,MCB,True
+LRN00416,Ishimwe Dorcas,Female,PCM,True
+LRN00417,Ishimwe Emelyne,Female,PCB,True
+LRN00418,Ishimwe Emmanuel,Male,MCB,True
+LRN00419,Ishimwe Frank,Male,PCB,True
+LRN00420,Ishimwe Hirwa Levis,Male,MCE,True
+LRN00421,Ishimwe Iphigenie,Female,MCE,True
+LRN00422,Ishimwe Kayisinga Raoul,Male,MCB,True
+LRN00423,Ishimwe Marie Yvonne,Female,PCB,True
+LRN00424,Ishimwe Merveille,Female,PCB,True
+LRN00425,Ishimwe Peace Gadiella,Female,MPC,True
+LRN00426,Ishimwe Sharif,Male,MCB,True
+LRN00427,Ishimwe Uwase Amandine,Female,PCB,True
+LRN00428,Ishimwe Yvette,Female,PCB,True
+LRN00429,Isimbi Joyeuse,Female,MPC,True
+LRN00430,Isimbi Karangwa Yousra,Female,MCB,True
+LRN00431,Isimbi Marebe Jessica,Female,PCM,True
+LRN00432,Isimbi Mutesi Emily,Female,MCE,True
+LRN00433,Isimbi Shema Parfaite,Female,PCB,True
+LRN00434,Isimbi hyacinthe Sonia,Female,PCB,True
+LRN00435,Itangishaka Olive,Female,LFK,True
+LRN00436,Itangumugisha Frida,Female,PCB,False
+LRN00437,Iyabivuze Hirwa Placide,Male,PCB,True
+LRN00438,Iyakaremye Gihozo Noella,Female,MPC,True
+LRN00439,Iyoturikume Seraphin,Male,MCB,True
+LRN00440,Izere Ange Prince,Male,MCB,True
+LRN00441,Izere Christa,Female,S2,True
+LRN00442,Izere Ishimwe Kelvine,Female,MCE,True
+LRN00443,Izere Jean Bosco,Male,L4BDC,True
+LRN00444,Jean Claude Nizeyimana,Male,LFK,True
+LRN00445,Jean Paul Tugirimana,Male,LFK,True
+LRN00446,Jean-Pierre Kayiganwa,Male,LFK,True
+LRN00447,John Irakoze,Male,PCB,True
+LRN00448,John Irumva,Male,L3 Building Construction,True
+LRN00449,Joyce Sab Uhiriwe,Female,PCB,True
+LRN00450,Junior Jabo Gabiro,Male,MPC,True
+LRN00451,KABARISA CHASTE,Male,MPG,True
+LRN00452,KABATESI NADINE,Female,MEG,True
+LRN00453,KABATESI Prudenciene,Female,MPC,False
+LRN00454,KABAYIZA Ineza Livine,Female,LFK,True
+LRN00455,KALISA CHRISTIAN,Male,PCB,True
+LRN00456,KAMI Trevor,Male,MCE,True
+LRN00457,KAMIKAZI Patience,Female,MCE,True
+LRN00458,KANEZA Lucky Christiane,Female,PCB,True
+LRN00459,KARAMAGE Valentin,Male,PCB,True
+LRN00460,KAYIRANGA Maurice,Male,MCB,True
+LRN00461,KAYIRANGA SHIMWA Prince,Male,S2,True
+LRN00462,KAYIRANGWA ARLETTE,Female,MCB,True
+LRN00463,KAZENEZA JOSIANNE,Female,MPC,True
+LRN00464,KIZERE Benitha,Female,PCB,True
+LRN00465,KUBWIMANA EULER JOY ROMEO,Male,MCB,True
+LRN00466,KUNDWA  Kelvin,Male,PCB,True
+LRN00467,KUZO BLAISE,Male,MEG,True
+LRN00468,KWIHANGANA Iratinze Elysee,Male,MCE,True
+LRN00469,KWIHANGANA Sifa,Female,MPG,True
+LRN00470,KWIZERA Abubakari,Male,MCB,True
+LRN00471,KWIZERA Emery,Male,TSS,True
+LRN00472,KWIZERA Etienne,Male,HGL,True
+LRN00473,KWIZERA Fidele,Male,PCB,True
+LRN00474,KWIZERA IGIHOZO Olivier,Male,PCB,True
+LRN00475,KWIZERA JOB,Male,MCB,True
+LRN00476,KWIZERA James,Male,PCM,True
+LRN00477,KWIZERA NEZA Bruce,Male,MCE,True
+LRN00478,KWIZERA Pierre,Male,L3,True
+LRN00479,Kabera Meggi Tracy,Female,PCB,True
+LRN00480,Kagabo Jackson,Male,HGL,True
+LRN00481,Kaliza Ella Samantha,Female,MCE,True
+LRN00482,Kaliza Leah,Female,PCB,True
+LRN00483,Kamikazi Esther,Female,MCE,True
+LRN00484,Kamikazi Teta Ange,Female,MCB,True
+LRN00485,Kamugisha Renice,Female,MCE,True
+LRN00486,Kaneza NKURUNZIZA Lisette,Female,MCE,True
+LRN00487,Kansime Joan,Female,PCB,True
+LRN00488,Kanyana uwase Jany-Lay,Female,MPC,True
+LRN00489,Kanyange Isabelle,Female,,False
+LRN00490,Kanyesigye Edwin,Male,S2,True
+LRN00491,Karabo Abarikumwe Ella Stessy,Female,PCB,True
+LRN00492,Karenzi Hussuman,Male,S2,True
+LRN00493,Karungi Blenda,Female,MCE,True
+LRN00494,Kashemera Cate,Female,PCB,True
+LRN00495,Kayisire Elsy,Female,PCM,True
+LRN00496,Kayitavu Audrey Gabine,Female,MCE,True
+LRN00497,Kayitesi Sandrine,Female,MCB,True
+LRN00498,Kazoya Uwamahoro Merveille,Female,MCB,True
+LRN00499,Keilla Mahoro,Female,MEG,True
+LRN00500,Kelly Shumbusho,Male,MPC,True
+LRN00501,Kessy Deluna,Female,MCE,True
+LRN00502,Kevin Gisubizo,Male,S2,True
+LRN00503,Kevine Ingabire,Female,MCB,True
+LRN00504,Kevine Uwera,Female,MPG,True
+LRN00505,Keza Anaise Marielle Digne,Female,MCB,True
+LRN00506,Keza Belyze,Female,PCB,True
+LRN00507,Keza Divine,Female,PCB,True
+LRN00508,Keza Lisah,Female,MCE,True
+LRN00509,Keza Mugisha Kellen,Female,MCE,True
+LRN00510,Keza Pamella,Female,MCE,True
+LRN00511,Keza Tonia,Female,PCB,True
+LRN00512,Keza Umukundwa Nadine,Female,MCE,True
+LRN00513,Kezia Ntwali,Female,HGL,True
+LRN00514,Kezia Umubyeyi,Female,LFK,True
+LRN00515,Kirabo Vaness,Female,MPG,True
+LRN00516,Kubaho Amina,Female,PCB,True
+LRN00517,Kuberimana Cynthia,Female,LFK,True
+LRN00518,Kuberimana Rene,Male,MCE,True
+LRN00519,Kubwimana Irumva Acqueline,Female,MCB,True
+LRN00520,Kundwa Joyce,Female,PCB,True
+LRN00521,Kwizera Eric,Male,MPG,True
+LRN00522,Kwizera Rugwiro Norbert,Male,MCB,True
+LRN00523,Leonce Nishimirwe,Female,MEG,True
+LRN00524,Liliane Gisubizo,Female,MCE,True
+LRN00525,MAKAMBAZA RITA,Female,PCB,True
+LRN00526,MANIRAGENA Obedi,Male,MCB,True
+LRN00527,MANISHIMWE ADELINE,Female,MCB,True
+LRN00528,MANZI Dieu Veux Djibrile,Male,PCM,True
+LRN00529,MASENGESHO Ange,Female,PCM,True
+LRN00530,MASENGESHO REINE ADELAIDE,Female,MCB,True
+LRN00531,MBARUSHIMANA JEAN BAPTISTE,Male,LFK,True
+LRN00532,MBONEZA Lisa,Female,PCM,True
+LRN00533,MBONIGABA MOISE,Male,PCB,True
+LRN00534,MBONIMANA Eric,Male,PCM,True
+LRN00535,MFITUMUKIZA BENJAMIN,Male,HGL,True
+LRN00536,MORISHO Austin,Male,PCB,True
+LRN00537,MUCYO BELIEVE,Male,PCB,False
+LRN00538,MUCYO KEVIN,Male,PCB,True
+LRN00539,MUCYO Marie Denyse,Female,MCB,True
+LRN00540,MUCYO NSABA Yves,Male,S2,True
+LRN00541,MUCYO Patrick,Male,MCE,True
+LRN00542,MUCYOWAKA  GLORIA,Female,MCB,True
+LRN00543,MUDUMIZI KENNY,Male,MPG,True
+LRN00544,MUGISHA  Albert,Male,PCB,True
+LRN00545,MUGISHA Elyse,Male,LFKK,True
+LRN00546,MUGISHA MUGAZA Victoire,Female,PCM,True
+LRN00547,MUGISHA Nelson,Male,PCB,True
+LRN00548,MUGISHA Samuel,Male,PCB,True
+LRN00549,MUGWANEZA JEAN AIME,Male,PCB,True
+LRN00550,MUHIRWA KELLY,Male,MCB,True
+LRN00551,MUHIRWA YONGGI CHO,Male,MCB,True
+LRN00552,MUJAWAYEZU JOSELYNE,Female,LFK,True
+LRN00553,MUKESHIMANA Elie,Male,HLP,True
+LRN00554,MUKESHIMANA Felix,Male,LFKK,True
+LRN00555,MUKUNDENKASE UWASE PEACE,Female,MCB,True
+LRN00556,MUNEZA Philippe,Male,L3,True
+LRN00557,MUNEZERO UWASE NICE,Female,PCB,True
+LRN00558,MUNYAKAZI Jean Rouney,Male,MCE,True
+LRN00559,MUNYANSANGA Ihozo Lyna OUMAILLAH,Female,HGL,True
+LRN00560,MURAMIRA ALLAN,Male,PCB,True
+LRN00561,MURANGWA Pierre Damien,Male,HLP,True
+LRN00562,MUSHIMIYIMANA Joselyne,Female,PCM,True
+LRN00563,MUSHIMIYIMANA Solange,Female,MCE,True
+LRN00564,MUTANGANA Prince,Male,PCM,True
+LRN00565,MUTONI NADIA,Female,HGL,True
+LRN00566,MUTONI Valentine,Female,MCB,False
+LRN00567,MUTUYEMARIYA Marie Mediatrice,Female,MCB,True
+LRN00568,MUTUYIMANA Rachel,Female,PCB,True
+LRN00569,MUTUYIMANA Vivine,Female,PCB,True
+LRN00570,MUVUNYI TETA NADINE,Female,MPG,True
+LRN00571,MWAMIKAZI Gisele,Female,HLP,True
+LRN00572,Mahoro Esther,Female,HGL,True
+LRN00573,Maliza Louange,Female,MEG,True
+LRN00574,Manirafasha Jean Pierre,Male,S2,True
+LRN00575,Maniraguha Igihozo Samuel,Male,MCB,True
+LRN00576,Manirakiza Darada,Female,S2,True
+LRN00577,Manirakiza Ernest,Male,MCB,True
+LRN00578,Manirakiza Evode,Male,MCB,True
+LRN00579,Manirakiza Patrick,Male,L3 Building Construction,True
+LRN00580,Manirakoze Pacifque,Male,PCB,True
+LRN00581,Manishimwe Christian,Male,PCM,True
+LRN00582,Manishimwe Honorine,Female,PCB,True
+LRN00583,Manzi  Bide,Male,PCB,True
+LRN00584,Manzi Amani Yannick,Male,MCB,True
+LRN00585,Manzi Deco Arsene,Male,MCE,True
+LRN00586,Manzi Teta Aliane,Female,PCB,True
+LRN00587,Maombi Fiacre,Female,PCB,True
+LRN00588,Marie Alliance Ishimwe Manziyimana,Female,MPC,True
+LRN00589,Masengesho Halley,Female,MCB,True
+LRN00590,Mbabazi Jennifer Aela,Female,PCB,True
+LRN00591,Mbayiha Ismael,Male,PCB,True
+LRN00592,Mizero Devotha,Female,PCB,True
+LRN00593,Moise Kwizera,Male,MCB,True
+LRN00594,Moses Nsegiyumva,Male,MEG,True
+LRN00595,Mpana Irakoze Chrispin,Male,PCB,True
+LRN00596,Muberwa Achille,Male,MCE,True
+LRN00597,Mucyo Christian,Male,MCE,True
+LRN00598,Mucyo Habumuremyi Noella,Female,PCB,True
+LRN00599,Mucyo Jimmy,Male,S2,True
+LRN00600,Mudahunga Christella,Female,MPC,True
+LRN00601,Mugabe Christian,Male,PCB,True
+LRN00602,Mugabe Irene,Male,PCB,True
+LRN00603,Mugabe King,Male,PCB,True
+LRN00604,Muganga  Samir,Male,PCB,True
+LRN00605,Mugeni Stella Esther,Female,MCE,True
+LRN00606,Mugiraneze Prosper,Male,L4BDC,True
+LRN00607,Mugisha Gael,Male,S2,True
+LRN00608,Mugisha Jacques,Male,MCB,True
+LRN00609,Mugisha Justin,Male,HGL,True
+LRN00610,Mugisha Mugabo Gaston,Male,PCB,True
+LRN00611,Mugisha Patrick,Male,MCB,True
+LRN00612,Mugisha Samuel,Male,MPG,True
+LRN00613,Mugisha Yves,Male,S2,True
+LRN00614,Mugwiza Anicet Goustave,Male,S2,True
+LRN00615,Muhawenimana Radju,Male,PCB,True
+LRN00616,Muhoza Queen,Female,MEG,True
+LRN00617,Mukama Kefa,Male,MPC,True
+LRN00618,Mukamana Anysie,Female,S2,True
+LRN00619,Mukandakebuka Assoumpta,Female,MCE,True
+LRN00620,Mukaniyonkuru Clarisse,Female,MCB,True
+LRN00621,Mukeshimana Delphine,Female,MEG,True
+LRN00622,Mukeshimana Placidia,Female,MCE,True
+LRN00623,Mumurarungu Kelly,Female,MCB,True
+LRN00624,Mundere Eunice Linda,Female,MPC,True
+LRN00625,Muneza Sandra,Female,MCE,True
+LRN00626,Munezero Aime Sympathique,Male,PCB,True
+LRN00627,Munezero Kennedy,Male,L3 Building Construction,True
+LRN00628,Munezero Ngirabatware Charline,Female,MCB,True
+LRN00629,Munezero Olivier,Male,L4BDC,True
+LRN00630,Munyampeta David,Male,S2,True
+LRN00631,Munyana Alliane,Female,S2,True
+LRN00632,Munyana Annah,Female,MEG,True
+LRN00633,Musabyimana Febronie,Female,MCB,True
+LRN00634,Mushimire Ariella Lydienne,Female,MPC,True
+LRN00635,Musoni Patrick,Male,HGL,True
+LRN00636,Mutambuka Narada,Female,MPC,True
+LRN00637,Mutara Anabella,Female,PCB,True
+LRN00638,Mutesi Kevine Rwaka,Female,PCB,True
+LRN00639,Mutesi Peace,Female,MCE,True
+LRN00640,Mutesi Ruth,Female,MCE,True
+LRN00641,Mutesi Sandrine,Female,S2,True
+LRN00642,Mutesiwase Sifa,Female,MCB,True
+LRN00643,Mutoni Janvier,Female,MPC,True
+LRN00644,Mutoniwase Eline,Female,PCB,True
+LRN00645,Mutozo Son Aldo,Male,PCM,True
+LRN00646,Mutuyimana Yvette,Female,S2,True
+LRN00647,Muvunyi Tuyishime Edmond,Male,MCE,True
+LRN00648,Muyizere Elysee,Male,HGL,True
+LRN00649,Mwojo Elisa,Male,HGL,True
+LRN00650,NARAYISABYE IZIMPAMVU PHANETTE,Female,MCB,True
+LRN00651,NAYIHIKI UWASE PASCALINE,Female,PCB,True
+LRN00652,NDAHAYO Gilbert,Male,MCB,True
+LRN00653,NDARISHIZE Aimable,Male,MCE,True
+LRN00654,NDAYAMBAJE Ildephonse,Male,MCB,True
+LRN00655,NDAYIKENGURUKIYE HUNGU,Male,MCB,True
+LRN00656,NDAYISENGA Dieudonné,Male,PCB,True
+LRN00657,NDAYISHIMIYE JEAN ClaUDE,Male,PCB,True
+LRN00658,NGABIKINZE GAD,Male,MCB,True
+LRN00659,NGOGA JEFF SAMIR,Male,MPG,True
+LRN00660,NIKUZE Divine,Female,MCB,True
+LRN00661,NISHIMWE  Aime John,Male,PCB,True
+LRN00662,NISINGIZWE Donathe,Female,MCB,True
+LRN00663,NIYIGENA Delissa,Male,PCB,True
+LRN00664,NIYIZUBWENGE Godwin,Female,MEG,True
+LRN00665,NIYOGISUBIZO Théophile,Male,PCB,True
+LRN00666,NIYOKWIZERA Pierre,Male,MCB,True
+LRN00667,NIYOKWIZERWA Raban,Male,PCM,True
+LRN00668,NIYOMUFASHA PHILOMENE,Female,HGL,True
+LRN00669,NIYOMUNGERE Claude,Male,PCB,True
+LRN00670,NIYOMUNGERI Jean Berchmas,Male,MCB,True
+LRN00671,NIYOMWUNGERI Noella,Female,MCB,True
+LRN00672,NIYONAMBAZA Obed,Male,MCB,True
+LRN00673,NIYONGABO Frank,Male,PCM,True
+LRN00674,NIYONKURU Kevin,Male,PCB,True
+LRN00675,NIYONZIMA ERIC,Male,HGL,True
+LRN00676,NIYONZIMA Valentin,Male,PCB,True
+LRN00677,NIYORUMURI Nadia,Female,MPG,True
+LRN00678,NIZEYIMANA Remy,Male,MCE,True
+LRN00679,NSABIMANA Damascene,Male,MCB,True
+LRN00680,NSANZIMANA Jean,Male,MCE,True
+LRN00681,NSANZIYAREMYE Olivier,Male,L3,True
+LRN00682,NSENGIMANA Jean Pierre,Male,PCB,True
+LRN00683,NSHIMIYIMANA Robert,Male,MCE,True
+LRN00684,NSHUTI JABO DAVID,Male,MCB,True
+LRN00685,NTACYITAKOZE Elysee,Male,PCB,True
+LRN00686,NTEZIMANA Jean Felix,Male,LFK,True
+LRN00687,NTEZIREMBO Evariste,Male,MCE,True
+LRN00688,NTIHARIRIZWA CAMELLA,Female,HLP,True
+LRN00689,NTIRAMPEBA Naome,Female,LFK,True
+LRN00690,NTIYOBERWA ERNY DICARD,Male,HLP,True
+LRN00691,NYIRANSHIMIYIMAN JANVIERE,Female,MCE,True
+LRN00692,NZINKWINKUNDA SLVAN,Male,HGL,True
+LRN00693,Nadia Bamurebe,Female,HGL,False
+LRN00694,Naomie Clementine,Female,S2,True
+LRN00695,Ndabikunze Keza Ora Aella,Female,PCM,True
+LRN00696,Ndashimye Ngoga Henri Chris,Male,PCM,True
+LRN00697,Ndashimye Shami Ben Victor,Male,MCB,True
+LRN00698,Ndayisenga Aliyasa,Male,MCE,True
+LRN00699,Ndayisenga Olivier,Male,L4AGR,True
+LRN00700,Ndayishimiye Claude,Male,PCB,True
+LRN00701,Ndayishimiye Eric,Male,L4BDC,True
+LRN00702,Ndayishimiye Regis,Male,PCB,True
+LRN00703,Ndayishimye Clementine,Female,S2,True
+LRN00704,Ndicunguye Dieu Merci Jesus,Male,MEG,True
+LRN00705,Ndikumana Pie,Male,MCE,True
+LRN00706,Ndungutse Fred,Male,MEG,True
+LRN00707,Nduwimana Gedeon,Male,MCB,True
+LRN00708,Nidufashe Emmanuel,Male,L3 Building Construction,True
+LRN00709,Nijibu Nelgan Charité,Male,PCB,True
+LRN00710,Ninkabandi Nakure Oda Englid,Female,MCE,True
+LRN00711,Niragire Jean Bosco,Male,MCB,True
+LRN00712,Niragire Rehema,Female,S2,True
+LRN00713,Nirere Joy,Female,MCE,True
+LRN00714,Nishemezwe Daniella Erlande Ange,Female,MCE,True
+LRN00715,Nishimwe Benitha,Female,S2,True
+LRN00716,Nishimwe Dominique,Male,PCB,True
+LRN00717,Nishimwe Ineza Annick Happy,Female,PCB,True
+LRN00718,Nishimwe Jacques,Male,PCB,True
+LRN00719,Nishimwe Josue,Male,L3 Food Processing,True
+LRN00720,Nishimwe Ornella,Female,PCM,True
+LRN00721,Nishimwe Rebecca,Female,MCE,True
+LRN00722,Nishimwe Uwase Nadine,Female,MCE,True
+LRN00723,Niwemwiza Teta Kenia,Female,MCE,True
+LRN00724,Niyibizi Dieudonne,Male,MCB,True
+LRN00725,Niyibizi Prince,Male,S2,True
+LRN00726,Niyigaba Patrick,Male,MCB,True
+LRN00727,Niyigaba Vicent,Male,PCB,True
+LRN00728,Niyigena Edith,Female,MCB,True
+LRN00729,Niyigena Innocent,Male,S2,True
+LRN00730,Niyirora Win,Female,PCB,True
+LRN00731,Niyitanga Anaclet,Male,S2,True
+LRN00732,Niyizarera Vanessa,Female,L3 Food Processing,True
+LRN00733,Niyogisubizo Alice,Female,MCB,True
+LRN00734,Niyogisubizo Fille,Female,PCB,False
+LRN00735,Niyogushimwa Sallah,Female,MCB,True
+LRN00736,Niyomugabo David (L5),Male,L3 Building Construction,False
+LRN00737,Niyomukiza Egide,Male,LFK,True
+LRN00738,Niyomurengezi Olivier,Male,PCM,True
+LRN00739,Niyomwungeli Adeline,Female,S2,True
+LRN00740,Niyonagira Pacifique,Female,MCE,True
+LRN00741,Niyongabo Ange Nickle,Female,MPC,True
+LRN00742,Niyonizera Aulas Servi,Male,PCB,True
+LRN00743,Niyonkuru Celse Kenny,Male,HGL,True
+LRN00744,Niyonkuru Christian,Male,HGL,True
+LRN00745,Niyonkuru Irene,Male,S2,True
+LRN00746,Niyonkuru Pacifique,Male,MCB,True
+LRN00747,Niyonsaba Claver,Male,S2,True
+LRN00748,Niyonsenga Elia,Male,LFK,True
+LRN00749,Niyonsenga Valens,Male,S2,True
+LRN00750,Niyonshuti Queen Fabiola,Female,MPC,True
+LRN00751,Niyonsimza Josue,Male,S2,True
+LRN00752,Niyonzima Eric,Male,PCB,True
+LRN00753,Niyotwambaza Delimitive,Female,MPC,True
+LRN00754,Nkunduwera Divine,Female,PCB,True
+LRN00755,Nkuzimana Gad,Male,LFK,True
+LRN00756,Noella Tuyishime,Female,MCB,True
+LRN00757,Nshimiyimana Jean Claude,Male,MCB,True
+LRN00758,Nshimyumuremyi Japhar,Male,PCB,True
+LRN00759,Nshizirungu Sabin Salatiel,Male,MCE,True
+LRN00760,Ntawigenera Ishimwe,Male,S2,True
+LRN00761,Ntete Charmante,Female,MPC,True
+LRN00762,Ntwari Manzi Fiston,Male,PCB,True
+LRN00763,Nyampinga Christella,Female,HLP,True
+LRN00764,Nyiraneza Aline,Female,LFK,False
+LRN00765,Nyiranshimiyimana Judith,Female,S2,True
+LRN00766,Nyiranziza Prisca,Female,MCE,True
+LRN00767,Nziza Aime,Male,MCE,True
+LRN00768,Olivier Hakizimana,Male,MCB,True
+LRN00769,Orion Agasaro,Female,MEG,True
+LRN00770,Patrick Habineza,Male,L4AGR,False
+LRN00771,Peace Nakunda-,Female,Maths Science,True
+LRN00772,Pfukamusenge Constatine,Female,L4AGR,True
+LRN00773,RUGABIRWA MAXIME,Male,MPG,True
+LRN00774,RUGIRA CYIZA Edwin,Male,MCE,True
+LRN00775,RUGWIRO Protegene,Male,MCB,True
+LRN00776,RUSARO ALLIAH,Female,PCB,True
+LRN00777,RWAKANA Sulaiman Mudjib,Male,TSS,True
+LRN00778,RWIGEMA Issa,Male,L3,True
+LRN00779,Regis Akuzwe,Male,MCB,True
+LRN00780,Rehema Tuyishimire,Female,S2,True
+LRN00781,Ringuyeneza Olga,Female,MPG,True
+LRN00782,Rugendo Yvan Axelle,Male,L3 Food Processing,True
+LRN00783,Rugwiro Kevin,Male,TSS,True
+LRN00784,Ruhatana Teta Uwase Queen,Female,MEG,True
+LRN00785,Rujeni Mico Aniella,Female,PCM,True
+LRN00786,Rukundo Aimable,Male,LFK,True
+LRN00787,Rukundo Didier,Male,PCB,True
+LRN00788,Rukundo Edison,Male,S2,True
+LRN00789,Rukundo Pacifique,Male,MCB,True
+LRN00790,Rusaro Niella Auxanne,Female,MPC,True
+LRN00791,Ruziki Foibe,Female,MCE,True
+LRN00792,Rwabagabo Munezero Daniella,Female,PCB,True
+LRN00793,Rwibutso Hamza,Male,MCB,True
+LRN00794,SANGANO White,Female,PCB,True
+LRN00795,SANGWA Simeon,Male,PCB,True
+LRN00796,SEBAGANGI CALEB,Male,MPG,True
+LRN00797,SEKABERA Venuste,Male,PCM,True
+LRN00798,SEZERANO Dominique Xavio,Male,S2,True
+LRN00799,SEZERANO KELLY,Female,PCB,True
+LRN00800,SEZERANO SHELTA MAIVA,Female,HLP,True
+LRN00801,SHAMI ELLEN JOCELINE,Female,MCB,True
+LRN00802,SHEMA CEDRICK,Male,HGL,True
+LRN00803,SHEMARYAYESU Jean Jacques,Male,MCB,True
+LRN00804,SHENGE Shama,Female,MCB,True
+LRN00805,SHIMIRWA josue,Male,MCE,True
+LRN00806,SHIMWA HIGIRO Bruce,Male,MCB,True
+LRN00807,SHIMWA Happy Blaise,Male,PCB,True
+LRN00808,SHUMBUSHO FABRICE,Male,HGL,True
+LRN00809,SIBOMANA KWIZERA STEVEN,Male,HGL,True
+LRN00810,SUGIRA RUZAGIRIZA Stella,Female,S2,True
+LRN00811,Safi Uwineza,Female,HGL,True
+LRN00812,Sahoguteta Cedrick,Male,S2,True
+LRN00813,Samuel Itangishaka,Male,MCB,True
+LRN00814,Samuel Twabonyimbaragazayo,Male,PCB,True
+LRN00815,Sandrine Ishimwe,Female,MEG,False
+LRN00816,Sanga Bahizi Neilla Ange Brianna,Female,PCB,True
+LRN00817,Sangwa Sveta Karen,Female,HGL,True
+LRN00818,Sebushumba Ganza Dylan,Male,PCM,True
+LRN00819,Sedjidi Nsengiyumva,Male,S2,True
+LRN00820,Senga Iganze Aimee Leila,Female,MPC,True
+LRN00821,Seraphine Ufitinema,Female,LFK,True
+LRN00822,Serapie Mukeshimana,Female,MEG,True
+LRN00823,Shalon Umumarungu,Female,MEG,True
+LRN00824,Sharon Mukundwa,Female,HGL,True
+LRN00825,Sheja Gift Mukambiza,Male,MCE,True
+LRN00826,Shema Kenny,Male,S2,True
+LRN00827,Shimwa Cindy First,Female,S2,True
+LRN00828,Shimwa Evra,Male,S2,True
+LRN00829,Shukuru Patience,Male,PCB,True
+LRN00830,Sibomana Gideon,Male,S2,True
+LRN00831,Sibomana Josue,Male,MCB,True
+LRN00832,Sibomana Jules,Male,S2,True
+LRN00833,Siborurema Obed,Male,L3 Building Construction,True
+LRN00834,Simbi Aurore,Female,MCB,True
+LRN00835,Sonia Isimbi,Female,MEG,True
+LRN00836,TINYIMANA Seth,Male,HLP,True
+LRN00837,TUMUKUNDE Japhet,Male,HLP,True
+LRN00838,TUNEZERWE THEONESTE,Male,MPG,True
+LRN00839,TUYIRINGIRE JOYEUX,Male,PCB,True
+LRN00840,TUYISENGE JEAN ClaUDE,Male,PCB,True
+LRN00841,TUYISHIMIRE Yves,Male,Accounting,True
+LRN00842,TUYIZERE Eric,Male,PCM,True
+LRN00843,TUYIZERE Jean Luc,Male,L3,True
+LRN00844,TUYIZERE REGIS,Male,MCB,True
+LRN00845,TWAHIRWA Fred,Male,L3,True
+LRN00846,TWIZERIMANA  INNOCENT,Male,MPG,True
+LRN00847,TWIZEYIMANA Paul,Male,HGL,True
+LRN00848,Tom Kagwisagye,Male,HGL,True
+LRN00849,Tugirimana Jacques,Male,S2,True
+LRN00850,Tumaine Binn Aimable,Male,S2,True
+LRN00851,Tumukunde Ikuwe Alliance,Female,MPC,True
+LRN00852,Tunganirimana Nelly Vanessa,Female,HGL,True
+LRN00853,Turikumwe Lydivine,Female,MPC,True
+LRN00854,Tuyisenge Agape,Female,S2,True
+LRN00855,Tuyisenge Fabiola,Female,PCB,True
+LRN00856,Tuyisenge Kevine,Female,S2,True
+LRN00857,Tuyishimire Christian,Male,LFK,True
+LRN00858,Tuyishimire Naome,Female,HGL,True
+LRN00859,Tuyishimire Patrick,Male,HGL,True
+LRN00860,Tuyizere Chantal,Female,MCB,True
+LRN00861,Tuyizere Nadine,Female,MCE,True
+LRN00862,Tuyizere Reponse,Male,S2,True
+LRN00863,Twahirwa Ange Kelia,Female,MCE,True
+LRN00864,Twiringiyimana Gilbert,Male,MCE,True
+LRN00865,UDAHEMUKA Floride,Female,MPC,True
+LRN00866,UFITEYESU AMIE,Female,MCB,True
+LRN00867,UKURI AMLAN,Male,PCB,True
+LRN00868,UKWIBISHAKA Ernestine,Female,L3,True
+LRN00869,UMUGWANEZA Claudette,Female,PCM,True
+LRN00870,UMUHIRE CLEMENT,Male,MCB,True
+LRN00871,UMURERWA Emelyne,Female,PCB,True
+LRN00872,UMUTESI Alice,Female,MCB,False
+LRN00873,UMUTESI QUEEN,Female,MCB,True
+LRN00874,UMUTONI SHAMI Christella,Female,MPC,True
+LRN00875,UMUTONIWASE Marie Claire,Female,PCB,True
+LRN00876,UMUTONIWASE YVETTE,Female,HGL,True
+LRN00877,UMWARI NSHUTI Liliose,Female,PCB,True
+LRN00878,UTSINZE KEZA Bless,Female,PCB,True
+LRN00879,UWAHAMAGAWE Samuel,Male,MCE,True
+LRN00880,UWAJENEZA Oleba,Female,MCB,True
+LRN00881,UWAMAHIRWE Patrick,Male,LFK,True
+LRN00882,UWAMAHORO Carine,Female,PCM,True
+LRN00883,UWAMAHORO Clarisse,Female,PCB,True
+LRN00884,UWASE Bella Cynthia,Female,MCE,True
+LRN00885,UWASE DIVINE,Female,MCB,True
+LRN00886,UWASE Jolie,Female,PCB,True
+LRN00887,UWASE Princess,Female,MCE,True
+LRN00888,UWASENEZA THEONESTINE,Female,MCB,True
+LRN00889,UWAYEZU Gloire Noella,Female,PCB,True
+LRN00890,UWIDUHAYE GERMAINE,Female,MCB,True
+LRN00891,UWIDUHAYE HENRIETTE,Female,PCB,True
+LRN00892,UWIHANGANYE Theogene,Male,PCM,True
+LRN00893,UWIMANA  OLIVIER,Male,MCB,True
+LRN00894,UWIMANA Rachel,Female,PCB,True
+LRN00895,UWIMPAYE KEZA STELLA,Female,MCE,True
+LRN00896,UWIMPAYE Marc,Male,MCB,True
+LRN00897,UWINEZA DIANE,Female,PCB,True
+LRN00898,UWINEZA Idrissa,Male,HGL,True
+LRN00899,UWIRINGIMANA David,Male,PCB,True
+LRN00900,UWIZEYE UMUKUNDWA Josee Emmanuella,Female,PCM,True
+LRN00901,UWIZEYIMANA Anitha,Female,MCE,True
+LRN00902,UWIZEYIMANA DEVOTHA,Female,MCB,True
+LRN00903,UWIZEYIMANA Esther,Female,MCB,True
+LRN00904,UWUMUKIZA Adeline,Female,MCB,True
+LRN00905,UWUMUKIZA Solange,Female,HLP,True
+LRN00906,UZWINIMANA  CELINE,Female,HGL,True
+LRN00907,Ubwizabwimana Darlene,Female,MCE,True
+LRN00908,Ufite Inema Twahirwa Roi Emerry,Female,MCB,True
+LRN00909,Uhagaze Shimwa Audrey,Female,PCM,True
+LRN00910,Uhiriwe Aline,Female,MEG,True
+LRN00911,Uhiriwe Dieu Merci,Female,MCB,True
+LRN00912,Uhiriwe Fabiola,Female,MCE,True
+LRN00913,Uhorasenga Florence,Female,S2,True
+LRN00914,Ukwibishaka Josette,Female,MCB,True
+LRN00915,Umuganwa Queen Kelsie,Female,MCE,True
+LRN00916,Umuhire Gwiza Ghalia,Female,MCE,True
+LRN00917,Umuhoza Caline,Female,MPC,True
+LRN00918,Umukundwa Kevine,Female,S2,True
+LRN00919,Umukundwa Penuel Prince,Male,MCE,True
+LRN00920,Umukundwanase Iness,Female,HGL,True
+LRN00921,Umulisa Angel,Female,MCB,True
+LRN00922,Umuragwa Gadine,Female,PCB,True
+LRN00923,Umurerwa Emelyne,Female,MCE,True
+LRN00924,Umurerwa Ghoumaissa,Female,MCE,True
+LRN00925,Umurerwa Kevine,Female,S2,True
+LRN00926,Umurerwa Milliam,Female,LFK,True
+LRN00927,Umutesi Belyse,Female,MCE,True
+LRN00928,Umutesiwase Sandrine,Female,PCB,True
+LRN00929,Umutoni Gloriose,Female,PCB,True
+LRN00930,Umutoni Yokebedi,Female,MCE,True
+LRN00931,Umutoniwase Annick,Female,HGL,True
+LRN00932,Umutoniwase Cynthia,Female,PCB,True
+LRN00933,Umutoniwase Kevine,Female,TSS,True
+LRN00934,Umutoniwase Raissa,Female,MPC,True
+LRN00935,Umutoniwase Sandrine,Female,MEG,True
+LRN00936,Umutoniwase Yvette,Female,S2,True
+LRN00937,Umwali Carine,Female,S2,True
+LRN00938,Umwizerwa Nelsa,Female,MCE,True
+LRN00939,Usabuwera Blessing Albright,Female,MCB,True
+LRN00940,Usanase Daniella,Female,MCE,True
+LRN00941,Usenzarasubizwa Patrick (L5),Male,L3 Building Construction,True
+LRN00942,Utamuriza Sandrine,Female,MCE,True
+LRN00943,Utetiwabo Rebecca,Female,PCB,True
+LRN00944,Uwacu Mugisha Nadia,Female,MEG,True
+LRN00945,Uwajeneza Gikundiro Beline.,Female,MCE,True
+LRN00946,Uwamahoro Aline,Female,S2,True
+LRN00947,Uwamahoro Claire,Female,LFK,True
+LRN00948,Uwamahoro Claudine,Female,L3 Food Processing,True
+LRN00949,Uwamahoro Deborah,Female,MCB,True
+LRN00950,Uwamahoro Redempta,Female,MPC,True
+LRN00951,Uwambajimana Provia,Female,LFK,True
+LRN00952,Uwanyirigira Yvette Divine,Female,PCB,True
+LRN00953,Uwase Deborah,Female,MCB,True
+LRN00954,Uwase Emelyne,Female,S2,True
+LRN00955,Uwase Esther,Female,PCB,True
+LRN00956,Uwase Ines,Female,MPC,True
+LRN00957,Uwase M Liliane,Female,S2,True
+LRN00958,Uwase Marie Louise,Female,PCB,True
+LRN00959,Uwase Nelly,Female,PCB,True
+LRN00960,Uwase Nusura,Female,PCB,True
+LRN00961,Uwase Patience,Female,MCE,True
+LRN00962,Uwase Peace,Female,PCM,True
+LRN00963,Uwase Sandrine,Female,LFK,True
+LRN00964,Uwase Sandrine,Female,MEG,True
+LRN00965,Uwase Sonia,Female,MPG,True
+LRN00966,Uwayisenga Esther,Female,S2,True
+LRN00967,Uwayo Anitha Sandrine,Female,L3 Building Construction,False
+LRN00968,Uwayo Hyacenta,Female,LFK,True
+LRN00969,Uwayo Jean,Female,PCB,True
+LRN00970,Uwera Ines,Female,MCE,True
+LRN00971,Uwera Naome,Female,L3 Food Processing,True
+LRN00972,Uwiduhaye Dynamique Solange,Female,MCB,True
+LRN00973,Uwiduhaye aline,Female,PCB,True
+LRN00974,Uwijuru Farida,Female,S2,True
+LRN00975,Uwikunda Queen Samuella,Female,S2,True
+LRN00976,Uwimana Anathalie,Female,MPC,True
+LRN00977,Uwimana Assoumpta,Female,MCB,True
+LRN00978,Uwimana Dina,Female,HGL,True
+LRN00979,Uwimana Emelyne,Female,MCB,True
+LRN00980,Uwimana Olive Keza,Female,HGL,True
+LRN00981,Uwimana Sangwa Bienvenue,Male,MCB,True
+LRN00982,Uwineza Antoinette,Female,MCE,True
+LRN00983,Uwineza Lucky,Female,S2,True
+LRN00984,Uwineza Nice Signoline,Female,MPC,True
+LRN00985,Uwiringiyimana Albertine,Female,LFK,True
+LRN00986,Uwiringiyimana Elenest,Male,L4BDC,True
+LRN00987,Uwiringiyimana Jeanine,Female,S2,True
+LRN00988,Uwiringiyimana Marie Louise,Female,MCB,True
+LRN00989,Uwiringiyimana Sandrine,Female,S2,True
+LRN00990,Uwitonze Happiness,Female,S2,True
+LRN00991,Uwumugisha Blaise,Male,PCM,True
+LRN00992,Uwumukiza Sylvan,Male,MCB,True
+LRN00993,Uwumuremyi Ishimwe Fidelante,Female,MPC,True
+LRN00994,Vanessa Gloria Nezarwa,Female,PCB,True
+LRN00995,Yves Turayishimiye,Male,MPC,True
+LRN00996,Yvonne Uwanyirimpuhwe,Female,MEG,True
+LRN00997,Zawadi Mutoni,Female,MEG,True
+LRN00998,Zubert Dukizimungu,Male,LFK,True
+LRN00999,igiribambe Inezayase Theophilla,Female,MCB,True
+LRN01000,umulisa Mwiza Christa,Female,MCE,True
+LRN01001,uwamahoro Josiane,Female,MCE,True
+LRN01002,uwizeyimana Honorine,Female,MPC,True
