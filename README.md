@@ -1,6 +1,8 @@
-# Isomo Data Fellowship — Learner Engagement & Readiness Assessment
-**Fellow:** Nusraty Uwase
-**Mentor:** Pacifique M.
+# Isomo Data Fellowship — Learner Engagement & Assessment Coverage Analysis
+**Fellow:** Nusraty Uwase,
+
+**Mentor:** Pacifique M.,
+
 **Date:** June 25th, 2026
 ---
 # Repository Overview
@@ -51,19 +53,19 @@ None of these files share a common learner or school identifier. Building that s
 
 ## Approach Summary
 
-### Layer 1 — Git
+### Layer 1:Git
 Repository structured and committed in stages with a clear, descriptive commit message at every milestone. The commit history reflects how the work was actually done.
 
-### Layer 2 — Learner & School IDs
+### Layer 2: Learner & School IDs
 A unique, stable, reproducible ID was generated for every learner starting from the master student list. A matching school ID system was built using the crosswalk file. Where names did not match exactly across sources, fuzzy matching was applied and every decision documented. Unmatched records were flagged — never silently dropped.
 
-### Layer 3 — Data Cleaning & Loading
+### Layer 3: Data Cleaning & Loading
 All ten source files were cleaned — column names standardized, dates parsed, nulls handled, and school names unified, then loaded into PostgreSQL. Every decision is recorded in `docs/cleaning_log.md`.
 
-### Layer 4 — SQL Analysis
+### Layer 4: SQL Analysis
 Seven queries were written across six required questions plus one self-directed question. Each query lives in its own named `.sql` file inside `queries/`. Topics covered: learner counts per source, school-level platform engagement, high-session low-score schools on Quill, assessment coverage gaps, and a full school-level summary table.
 
-### Layer 5 — Final Output
+### Layer 5: Final Output
 A program-ready report in `analysis/` that answers the original question without requiring anyone to open a database. It identifies which learners are engaging, which are not, and where the gaps between platform activity and assessment records are sharpest.
 
 ---
