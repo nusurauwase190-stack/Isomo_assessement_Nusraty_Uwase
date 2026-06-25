@@ -1,9 +1,11 @@
-# Isomo Data Fellowship — Learner Engagement & Assessment Coverage Analysis
-**Fellow:** Nusraty Uwase,
+# Isomo Data Fellowship: Learner Engagement & Assessment Coverage Analysis
+**Fellow:** Nusraty Uwase
 
-**Mentor:** Pacifique M.,
+**Mentor:** Pacifique M.
 
 **Date:** June 25th, 2026
+
+---
 ---
 # Repository Overview
 Learning platforms generate a constant stream of activity data  including lessons completed, sessions logged, time spent. Assessments generate a separate, much smaller stream — scores recorded a few times a year. These two streams are rarely looked at together, and rarely linked to the same learner at all.
