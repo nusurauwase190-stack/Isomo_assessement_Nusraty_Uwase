@@ -4,12 +4,12 @@
 **Date:** June 25th, 2026
 ---
 # Repository Overview
-Learning platforms generate a constant stream of activity data — lessons completed, sessions logged, time spent. Assessments generate a separate, much smaller stream — scores recorded a few times a year. These two streams are rarely looked at together, and rarely linked to the same learner at all.
+Learning platforms generate a constant stream of activity data  including lessons completed, sessions logged, time spent. Assessments generate a separate, much smaller stream — scores recorded a few times a year. These two streams are rarely looked at together, and rarely linked to the same learner at all.
 
-This repository is part of the **Isomo Data Fellowship 2026** assessment. Isomo works with learners across Rwanda, running them through two learning platforms — Typing and Quill — and tracking their progress through three assessments: EFSet, DET, and Northstar. This project links those two worlds together. Starting from raw, disconnected files with no shared learner or school ID, this repository builds the identity system needed to connect platform activity to assessment results, cleans and loads nine source files into a queryable database, and uses SQL to answer one concrete question:
+This repository is part of the **Isomo Data Fellowship 2026** assessment. Isomo works with learners across Rwanda, running them through two learning platforms, namely Typing and Quill, and tracking their progress through three assessments: EFSet, DET, and Northstar. This project links those two worlds together. Starting from raw, disconnected files with no shared learner or school ID, this repository builds the identity system needed to connect platform activity to assessment results, cleans and loads ten source files into a queryable database, and uses SQL to answer one concrete question:
 
 ---
-> ###  Are the learners who engage the most on Typing and Quill the same learners who appear in EFSet, DET, and Northstar assessment records — or are there learners who are active but never assessed, and assessed learners who barely engage?
+> ###  Are the learners who engage the most on Typing and Quill the same learners who appear in EFSet, DET, and Northstar assessment records, or are there learners who are active but never assessed, and assessed learners who barely engage?
 ---
 
 There is no answer key for this question. The value of this repository is not just the final numbers, but the documented trail of decisions — how learner identity was constructed, how ambiguous matches were handled, and how each cleaning choice was made — that makes those numbers trustworthy.
@@ -58,7 +58,7 @@ Repository structured and committed in stages with a clear, descriptive commit m
 A unique, stable, reproducible ID was generated for every learner starting from the master student list. A matching school ID system was built using the crosswalk file. Where names did not match exactly across sources, fuzzy matching was applied and every decision documented. Unmatched records were flagged — never silently dropped.
 
 ### Layer 3 — Data Cleaning & Loading
-All nine source files were cleaned — column names standardized, dates parsed, nulls handled, school names unified — then loaded into PostgreSQL. Every decision is recorded in `docs/cleaning_log.md`.
+All ten source files were cleaned — column names standardized, dates parsed, nulls handled, and school names unified, then loaded into PostgreSQL. Every decision is recorded in `docs/cleaning_log.md`.
 
 ### Layer 4 — SQL Analysis
 Seven queries were written across six required questions plus one self-directed question. Each query lives in its own named `.sql` file inside `queries/`. Topics covered: learner counts per source, school-level platform engagement, high-session low-score schools on Quill, assessment coverage gaps, and a full school-level summary table.
@@ -70,7 +70,14 @@ A program-ready report in `analysis/` that answers the original question without
 
 ## Key Findings
 
-*This section will be completed once the full analysis is done. It will summarise which learners are most engaged, which schools lead in platform activity, and where the sharpest gaps between engagement and assessment coverage lie.*
+The analysis reveals a clear and actionable gap between platform engagement 
+and assessment coverage across Isomo learners. The full findings are 
+documented in `analysis/final_report.md`.
+
+- **Platform engagement far exceeds assessment coverage** — the platform files contain over 50,000 activity records across Typing and Quill, while the three assessment files combined hold fewer than 4,000 records.
+- **There are learners who are active on platforms but have never been assessed** — these learners are engaging consistently with learning tools but remain invisible to the formal assessment system.
+- **Assessment coverage varies sharply across schools** — some schools show strong platform activity alongside good assessment participation; others have high engagement but almost no assessment records.
+- **The most engaged learners are not always the most assessed** — learners in the top 25% of platform activity who have never appeared in any assessment record represent the sharpest gap this project identifies.
 
 ---
 
