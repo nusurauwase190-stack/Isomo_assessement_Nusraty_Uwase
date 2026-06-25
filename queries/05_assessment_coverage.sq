@@ -1,0 +1,16 @@
+-- Query 5: Which learners have records in all three assessments? 
+-- Which have only one?
+
+SELECT
+    learner_id,
+    COUNT(DISTINCT source) AS assessment_count,
+    STRING_AGG(DISTINCT source, ', ' ORDER BY source) AS assessments_taken
+FROM (
+    SELECT learner_id, 'EFSet' AS source FROM efset_results WHERE learner_id IS NOT NULL
+    UNION ALL
+    SELECT learner_id, 'DET' FROM det_scores WHERE learner_id IS NOT NULL
+    UNION ALL
+    SELECT learner_id, 'Northstar' FROM northstar_results WHERE learner_id IS NOT NULL
+) all_assessments
+GROUP BY learner_id
+ORDER BY assessment_count DESC, learner_id;
